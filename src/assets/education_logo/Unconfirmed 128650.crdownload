@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Government Polytechnic, Nanded</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="css/modern-business.css" rel="stylesheet">
+        <!-- Custom Fonts -->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">Government Polytechnic, Nanded</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Institute <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="aboutus.html">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="principal.html">Principal's Desk</a>
+                                </li>
+                                 <li>
+                                    <a href="office.html">Office</a>
+                                </li>
+                                <li>
+                                    <a href="md.html">Mandatory Disclosure</a>
+                                </li>
+                                <li>
+                                    <a href="rti.html">RTI</a>
+                                </li>
+                                <li>
+                                    <a href="committee.html">Committees</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Departments <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="ce.html"> Civil Engineering </a>
+                                </li>
+                                <li>
+                                    <a href="me.html"> Mechanical Engineering </a>
+                                </li>
+                                <li>
+                                    <a href="ee.html"> Electrical Engineering </a>
+                                </li>
+                                <li>
+                                    <a href="mu.html"> Medical Electronics </a>
+                                </li>
+                                <li>
+                                    <a href="pg.html"> Production Engineering </a>
+                                </li>
+                                <li>
+                                    <a href="if.html"> Information Technology </a>
+                                </li>
+                                <li>
+                                    <a href="sc.html"> Science </a>
+                                </li>
+                                <li>
+                                    <a href="ws.html"> Workshop</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Facilities <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="library.html"> Library </a>
+                                </li>
+                                <li>
+                                    <a href="canteen.html"> Canteen </a>
+                                </li>
+                                <li>
+                                    <a href="hostel.html"> Hostel </a>
+                                </li>
+                                <li>
+                                    <a href="gymkhana.html"> Gymkhana </a>
+                                </li>
+                                <li>
+                                    <a href="tpo.html"> Training and Placement cell </a>
+                                </li>
+                                <li>
+                                    <a href="premises.html"> Premises </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="student.html">Student Corner</a>
+                        </li>
+                        <li>
+                            <a href="alumni.html">Alumni</a>
+                        </li>
+                        <li>
+                            <a href="contact.html">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+        <!-- Header Carousel -->
+        <!-- Page Content -->
+        <div class="container">
+            <br>
+            <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <table cellspacing="0" border="0" align="center" width="100%">
+                        <tr>
+                            <td align="right">
+                                <img src="images/dte.jpg" class="img-responsive" width="160" height="140" alt="logo"/>
+                            </td>
+                            <td valign="top" align="center" ><br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <div style="font-family: Arial;font-weight: bolder;font-size: xx-large;">Government Polytechnic, Nanded</div>
+                                <div style="font-family: Arial;font-weight: normal;font-size: xx-large;">शासकीय तंत्रनिकेतन, नांदेड</div>
+                                <div style="font-family: Arial;font-weight: bolder;font-size: large;">Established 1964</div>
+                                <div style="font-family: Arial;font-weight: bolder;font-size: large;">(Government of Maharashtra)</div>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            </td>
+                            <td>
+                                <img src="images/logo.gif" class="img-responsive" width="160" height="140" alt="logo"/>
+                            </td>
+                        </tr>
+                    </table>
+                    </div>
+                </div>
+                <div class="col-md-12">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h4><i class="fa fa-briefcase"></i> Training and Placement Office Profile</h4>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <!-- College Image Column -->
+                <div class="col-md-4">
+                    <img src="cell.jpeg" class="img-responsive" alt="College Image">
+                </div>
+                <!-- Information Column -->
+                <div class="col-md-8">
+                    <h5>Overview:</h5>
+                    <p>
+                        The Training and Placement Office (TPO) at Government Polytechnic, Nanded is dedicated to bridging the gap between academia and industry by facilitating internships, training programs, and placements for students.
+                    </p>
+                    <h5>Objectives:</h5>
+                    <ul>
+                        <li>Facilitating industrial training for students.</li>
+                        <li>Arranging guest lectures and workshops.</li>
+                        <li>Organizing campus recruitment drives.</li>
+                    </ul>
+                    <h5>Key Responsibilities:</h5>
+                    <ul>
+                        <li>Forge strategic partnerships with leading companies.</li>
+                        <li>Coordinate placement activities and events.</li>
+                        <li>Provide career counseling and guidance to students.</li>
+                    </ul>
+                    <h5>Contacts:</h5>
+                    <address>
+                        Email:tpogovpolynanded@gmail.com<br>
+                        Phone: +918208271264<br>
+                        Address: Government Polytechnic, Nanded - 431606, Maharashtra, India
+                    </address>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+                    <!--<div class="col-md-12">
+                        <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Traning and Placement Team</h4>
+                                        </div>
+                                        <div class="panel-body">
+                                          <!--<div class="row">
+                                    <div class="col-md-0"> </div>
+                                    <div class="col-md-10" style="text-align: center;"><br>
+                                        <center></center>
+                                        <img src="files/TPO/Team.jpg" height=300 width=500></img> 
+                                        class="img-responsive img-rounded" /><br>
+                                               </div>
+                                          </div>
+                                          
+                                </div>
+                               </div>
+                </div>-->
+                
+                <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i>Training and Placement Team</h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <img src="files/TPO/TPO.jpeg" class="img-responsive img-rounded" ></img><br>
+                                           <!--<a href="files/TPO/VISIT.pdf">Traning and Placement Team </a>-->
+                                          
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i>Training and Placement Team contact</h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <img src="files/TPO/TPOTEAM.jpg" class="img-responsive img-rounded" ></img><br>
+                                           <!--<a href="files/TPO/VISIT.pdf">Traning and Placement Team contact </a>-->
+                                          
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                
+                <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Our Recruiters </h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <img src="files/TPO/tp13.jpeg" class="img-responsive img-rounded" ></img><br>
+                                           <!--<a href="files/TPO/VISIT.pdf">Placement  visited to institute </a>-->
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                
+                
+                
+           
+<div class="row">
+               <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Placement details</h4>
+                                        </div>
+                                        <div class="panel-body">
+                                           <!--<a href="files/TPO/">Placement details</a>-->
+                                           <br>
+                                           
+                                           <div class="row">
+                                    <div class="col-md-1"> </div>
+                                           <div class="panel-body">
+                                            <img src="files/TPO/COMPANY.jpg" class="img-responsive img-rounded" ></img><br>
+                                            <img src="files/TPO/2024_25.jpg" class="img-responsive img-rounded" ></img><br>
+                                            <img src="files/TPO/2023_24.jpg" class="img-responsive img-rounded" ></img><br>
+                                            
+                                            <img src="files/TPO/2022-23.jpg" class="img-responsive img-rounded" ></img><br>
+                                            <img src="files/TPO/tp9.jpg" class="img-responsive img-rounded" ></img><br>
+                                            <img src="files/TPO/20-21.jpg" class="img-responsive img-rounded" ></img><br>
+                                            
+                                            
+                                            <!--<img src="files/TPO/" class="img-responsive img-rounded" ></img><br>-->
+                                           <a href="files/TPO/TP.jpg">Academic Year 2023-24</a><br>
+                                           <!--<a href="files/TPO/Placement 2022-23.jpg">Academic Year 2022-23</a><BR>
+                                            <a href="files/TPO/Placement 21-22.jpg">Academic Year 2021-22</a><br>-->
+                                             <a href="files/TPO/tp8.jpg">Academic Year 2022-23</a><BR>
+                                            <a href="files/TPO/tp9.jpg">Academic Year 2021-22</a><br>
+                                            
+                                            <a href="files/TPO/Placement 20-21.jpg">Academic Year 2020-21</a><br>
+                                        </div>
+                                    
+                                    <div class="col-md-1"> </div>
+                                </div>
+                                        
+                                        </div>
+                                   </div>
+                </div>
+
+                
+                
+                
+                                        <br>
+                                        </div> 
+                                           
+                                   
+                               <!-- </div> 
+                                          
+                                </div>
+                                </div>
+                </div>-->
+                
+                
+                 <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> memorandum of understanding </h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <a href="files/TPO/MOU2025.pdf">MOU with industries</a><br>
+                                           <a href="files/TPO/TPOMOU.pdf">MOU</a>
+                                            
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                
+                <!-- <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Placement Summary </h4>
+                                        </div>
+                                        <div class="panel-body">
+                                           <a href="files/TPO/SUMMARY.pdf">Placement Summary</a>
+                                           <img src="files/TPO/tp2.jpeg" class="img-responsive img-rounded" /><br>
+                                            <a href="files/TPO/summary.pdf">Placement Summary </a>
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>-->
+                
+                <!--<div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Program  wise Placement </h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <img src="files/TPO/tp3.jpeg" class="img-responsive img-rounded" /><br>
+                                           <a href="files/TPO/programwise.pdf">Program  wise Placement </a>
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>-->
+                
+                
+                
+                <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Placement  Policy </h4>
+                                        </div>
+                                        <div class="panel-body">
+                                                 <img src="files/TPO/tp11.jpeg" class="img-responsive img-rounded" ></img><br>
+                                           <!--<a href="files/TPO/POLICY.pdf">Placement  Policy </a>-->
+                                          
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                
+                <div class="col-md-12">
+                   <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h4> <i class="fa fa-calendar-o"> </i> Glimpses of Placement Drive</h4>
+                                        </div>
+                                        <div class="panel-body">
+                                            <img src="files/TPO/glimpses 1.jpg"  class="img-responsive img-rounded">
+                                            </img><br>
+                                            <object class="pdf" data="images/tp-glimpes.pdf"    width="1000" height="800">
+                                     </object>
+                                           <!--<a href="files/TPO/glimpses of placement.pdf"> Glims of Placement </a>-->
+                                           <br>
+                                           
+                                        </div>
+                                   </div>
+                </div>
+                
+                
+                
+            </div>
+            
+            
+            
+            
+            <!-- Footer -->
+            <footer>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Copyright &copy; GP NANDED 2024</p>
+                    </div>
+                </div>
+            </footer>
+
+        </div>
+        <!-- /.container -->
+
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
+
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Script to Activate the Carousel -->
+        <script>
+            $('.carousel').carousel({
+                interval: 5000 //changes the speed
+            })
+        </script>
+
+    </body>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl490944'},{'dcenter':'sg2'},{'cp_id':'4342197'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>
