@@ -240,7 +240,7 @@ export const SkillsInfo = [
       image: portfolioLogo,
       tags: ["React JS", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
       github: "https://github.com/EARTHKING12/Pruthviraj-Rathod-Portfolio",
-      webapp: "https://pruthvirajrathod.vercel.app/",
+      webapp: "https://www.pruthvirajrathod.in/",
     },
     {
       id: 4,
