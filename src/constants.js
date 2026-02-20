@@ -250,6 +250,6 @@ export const SkillsInfo = [
       image: codesLogo,
       tags: ["HTML", "CSS", "JavaScript",],
       github: "https://github.com/EARTHKING12/CodeSpringer?tab=readme-ov-file",
-      webapp: "https://earthking12.github.io/CodeSpringer/",
+      webapp: "https://www.codespringer.in/",
     },
   ];  
