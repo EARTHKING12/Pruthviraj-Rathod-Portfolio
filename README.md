@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://pruthvirajrathod.vercel.app/)
+🔗 [View Portfolio Live](https://pruthvirajrathod.in)
 
 ## 🛠️ Tech Stack
 
