@@ -26,7 +26,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/EARTHKING12/Pruthvi-r-Portfolio/tree/main]
+git clone [https://github.com/EARTHKING12/Pruthviraj-Rathod-Portfolio]
 cd your-repo-name
 ````
 
